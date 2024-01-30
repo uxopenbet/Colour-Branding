@@ -1,0 +1,1354 @@
+{
+  "remapping-tokens": {
+    "default": {
+      "label-override-default": {
+        "value": "{core-tokens.neutral.neutral-1}",
+        "type": "color"
+      },
+      "layer-override": {
+        "value": "{core-tokens.neutral.neutral-1}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{core-tokens.neutral.neutral-1}",
+        "type": "color"
+      }
+    },
+    "buttons": {
+      "primary": {
+        "label-override": {
+          "value": "{core-tokens.links.link-1}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.links.link-1}"
+        },
+        "sub-label-override": {
+          "value": "{core-tokens.links.link-1}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.links.link-1}"
+        },
+        "outline": {
+          "value": "{core-tokens.buttons.primary}",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "label-override": {
+          "value": "{core-tokens.base-2.light-10}",
+          "type": "color"
+        },
+        "outline": {
+          "value": "{core-tokens.base-2.light-2}",
+          "type": "color"
+        }
+      },
+      "tertiary": {
+        "light-background-label-override": {
+          "value": "{core-tokens.buttons.secondary}",
+          "type": "color",
+          "description": "{core-tokens.base-1.default} -> {core-tokens.buttons.secondary}"
+        },
+        "dark-background-label-override": {
+          "value": "{core-tokens.neutral.neutral-1}",
+          "type": "color"
+        },
+        "outline": {
+          "value": "{core-tokens.buttons.secondary}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "light-background-label-override": {
+          "value": "{core-tokens.base-2.default}",
+          "type": "color",
+          "description": "{core-tokens.links.link-1} -> {core-tokens.base-2.default} "
+        },
+        "dark-background-label-override": {
+          "value": "{core-tokens.base-2.default}",
+          "type": "color",
+          "description": "{core-tokens.base-2.light-10} -> {core-tokens.base-2.default} "
+        }
+      },
+      "odds": {
+        "label-default": {
+          "value": "{core-tokens.links.link-1}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-1} -> {core-tokens.links.link-1} "
+        },
+        "label-pressed": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "sub-label-default": {
+          "value": "{core-tokens.links.link-1}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-2} -> {core-tokens.links.link-1} "
+        },
+        "sub-label-pressed": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "default-outline": {
+          "value": "{core-tokens.buttons.odds-default}",
+          "type": "color"
+        },
+        "pressed-state-outline": {
+          "value": "{core-tokens.buttons.odds-pressed-state}",
+          "type": "color"
+        }
+      },
+      "tertiary-2": {
+        "outline": {
+          "value": "{core-tokens.buttons.tertiary-2}",
+          "type": "color"
+        }
+      }
+    },
+    "left-navigation": {
+      "global": {
+        "icon-selected": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "LHS nav comp"
+        },
+        "background": {
+          "value": "{core-tokens.background.background-site}",
+          "type": "color"
+        },
+        "expand-icon": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "links": {
+          "value": "{core-tokens.links.link-2}",
+          "type": "color"
+        }
+      },
+      "featured": {
+        "link": {
+          "value": "{core-tokens.base-1.dark-3}",
+          "type": "color",
+          "description": "{core-tokens.base-1.dark-5} -> {core-tokens.base-1.dark-3} "
+        },
+        "icon": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.base-1.light-8} -> {core-tokens.neutral.neutral-5} "
+        },
+        "title-label": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "link-label": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "dividers": {
+          "links": {
+            "value": "{core-tokens.base-1.dark-3}",
+            "type": "color"
+          },
+          "header": {
+            "value": "{core-tokens.base-1.light-5}",
+            "type": "color",
+            "description": "{core-tokens.base-1.default} -> {core-tokens.base-1.light-5} "
+          }
+        }
+      },
+      "non-featured": {
+        "link": {
+          "value": "{core-tokens.base-1.default}",
+          "type": "color",
+          "description": "{core-tokens.base-1.dark-3} -> {core-tokens.base-1.default} "
+        },
+        "icon": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.base-1.light-8} -> {core-tokens.neutral.neutral-5} "
+        },
+        "title-label": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "link-label": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "1st-level": {
+          "dividers": {
+            "link": {
+              "value": "{core-tokens.base-1.default}",
+              "type": "color",
+              "description": "{core-tokens.base-1.dark-5} -> {core-tokens.base-1.default} "
+            },
+            "header": {
+              "value": "{core-tokens.base-1.light-5}",
+              "type": "color",
+              "description": "{core-tokens.base-1.default} -> {core-tokens.base-1.light-5} "
+            }
+          }
+        },
+        "2nd-level": {
+          "background": {
+            "value": "{core-tokens.base-1.dark-3}",
+            "type": "color",
+            "description": "{core-tokens.base-1.dark-5} -> {core-tokens.base-1.dark-3} "
+          },
+          "dividers": {
+            "value": "{core-tokens.base-1.default}",
+            "type": "color",
+            "description": "{core-tokens.base-1.dark-3} -> {core-tokens.base-1.default} "
+          }
+        },
+        "3rd-level": {
+          "background": {
+            "value": "{core-tokens.base-1.dark-5}",
+            "type": "color",
+            "description": "{core-tokens.base-1.dark-7} -> {core-tokens.base-1.dark-5} "
+          },
+          "dividers": {
+            "value": "{core-tokens.base-1.dark-7}",
+            "type": "color",
+            "description": "{core-tokens.neutral.neutral-7} -> {core-tokens.base-1.dark-7} "
+          }
+        }
+      },
+      "search-field": {
+        "search-bg": {
+          "value": "{core-tokens.base-1.default}",
+          "type": "color",
+          "description": "{core-tokens.base-1.dark-5} -> {core-tokens.base-1.default} "
+        },
+        "placeholder-icon-and-text": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.base-1.light-8} -> {core-tokens.neutral.neutral-5} "
+        },
+        "active-icon-and-text": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        }
+      },
+      "empty-states": {
+        "light": {
+          "icon": {
+            "value": "{core-tokens.neutral.neutral-2}",
+            "type": "color"
+          },
+          "icon-bg": {
+            "value": "{core-tokens.neutral.neutral-5-5}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          }
+        },
+        "dark": {
+          "icon": {
+            "value": "{core-tokens.neutral.neutral-2}",
+            "type": "color"
+          },
+          "icon-bg": {
+            "value": "{core-tokens.neutral.neutral-5-5}",
+            "type": "color"
+          },
+          "text": {
+            "value": "{core-tokens.neutral.neutral-5}",
+            "type": "color"
+          }
+        }
+      },
+      "logo-background": {
+        "value": "{core-tokens.base-1.dark-5}",
+        "type": "color"
+      }
+    },
+    "filters": {
+      "chips-1-light-bg": {
+        "background": {
+          "value": "{core-tokens.background.background-site}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.background.background-site} "
+        },
+        "more-and-less-label": {
+          "value": "{core-tokens.base-1.default}",
+          "type": "color",
+          "description": "{core-tokens.base-2.default} -> {core-tokens.base-1.default} "
+        },
+        "more-and-less-icon": {
+          "value": "{core-tokens.base-1.default}",
+          "type": "color",
+          "description": "{core-tokens.base-2.default} -> {core-tokens.base-1.default} "
+        },
+        "fill": {
+          "default": {
+            "value": "{core-tokens.base-1.light-8}",
+            "type": "color",
+            "description": "{core-tokens.tickbox.tickbox-1-disabled} -> {core-tokens.base-1.light-8} "
+          },
+          "selected": {
+            "value": "{core-tokens.base-1.default}",
+            "type": "color",
+            "description": "{core-tokens.base-2.default} -> {core-tokens.base-1.default} "
+          }
+        },
+        "label": {
+          "default": {
+            "value": "{core-tokens.base-1.default}",
+            "type": "color",
+            "description": "{core-tokens.base-2.default} -> {core-tokens.base-1.default} "
+          },
+          "selected": {
+            "value": "{core-tokens.links.link-2}",
+            "type": "color",
+            "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.links.link-2} "
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core-tokens.base-1.light-8}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{core-tokens.base-1.default}",
+            "type": "color"
+          }
+        }
+      },
+      "chips-2-dark-bg": {
+        "dark-background": {
+          "value": "{core-tokens.base-1.dark-3}",
+          "type": "color"
+        },
+        "more-and-less-label": {
+          "value": "{core-tokens.base-2.light-10}",
+          "type": "color"
+        },
+        "more-and-less-icon": {
+          "value": "{core-tokens.base-2.light-10}",
+          "type": "color"
+        },
+        "fill": {
+          "default": {
+            "value": "{core-tokens.base-2.light-9}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{core-tokens.links.link-2}",
+            "type": "color",
+            "description": "{core-tokens.buttons.tertiary-1} -> {core-tokens.links.link-2}"
+          }
+        },
+        "label": {
+          "default": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color",
+            "description": "{core-tokens.base-1.default} -> {core-tokens.neutral.neutral-1}"
+          }
+        },
+        "border": {
+          "default": {
+            "value": "{core-tokens.base-2.light-9}",
+            "type": "color"
+          },
+          "selected": {
+            "value": "{core-tokens.links.link-2}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "tabs": {
+      "background": {
+        "value": "{core-tokens.background.background-widget}",
+        "type": "color"
+      },
+      "label": {
+        "default": {
+          "value": "{core-tokens.neutral.neutral-1}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{core-tokens.base-1.dark-3}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{core-tokens.neutral.neutral-1}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{core-tokens.base-1.dark-3}",
+          "type": "color"
+        }
+      }
+    },
+    "betslip-second-tabs": {
+      "background": {
+        "value": "{core-tokens.background.background-widget}",
+        "type": "color"
+      },
+      "label": {
+        "default": {
+          "value": "{core-tokens.neutral.neutral-1}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{core-tokens.base-1.dark-3}",
+          "type": "color"
+        }
+      },
+      "icon": {
+        "default": {
+          "value": "{core-tokens.neutral.neutral-1}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{core-tokens.base-1.dark-3}",
+          "type": "color"
+        }
+      }
+    },
+    "counter": {
+      "label": {
+        "default": {
+          "value": "{core-tokens.neutral.neutral-2}",
+          "type": "color"
+        },
+        "selected": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.accent.live} -> {core-tokens.neutral.neutral-5} "
+        }
+      },
+      "live-background": {
+        "default": {
+          "value": "{core-tokens.neutral.neutral-5-5}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-6} -> {core-tokens.neutral.neutral-5-5} "
+        },
+        "selected": {
+          "value": "{core-tokens.accent.live}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-6} -> {core-tokens.accent.live} "
+        }
+      }
+    },
+    "secondary-navigation": {
+      "background": {
+        "value": "{core-tokens.base-1.default}",
+        "type": "color",
+        "description": "{core-tokens.base-1.dark-3} -> {core-tokens.base-1.default} "
+      },
+      "background-overflow": {
+        "value": "{core-tokens.base-1.default}",
+        "type": "color",
+        "description": "{core-tokens.base-1.dark-3} -> {core-tokens.base-1.default} "
+      },
+      "underline": {
+        "value": "{core-tokens.links.link-2}",
+        "type": "color",
+        "description": "{core-tokens.accent.highlight-1} -> {core-tokens.links.link-2} "
+      },
+      "labels-colour": {
+        "value": "{core-tokens.links.link-2}",
+        "type": "color",
+        "description": "{core-tokens.base-2.light-10} -> {core-tokens.links.link-2} "
+      },
+      "overflow-label-colour": {
+        "value": "{core-tokens.links.link-2}",
+        "type": "color",
+        "description": "{core-tokens.base-2.light-10} -> {core-tokens.links.link-2} "
+      },
+      "divider": {
+        "value": "{core-tokens.base-1.default}",
+        "type": "color",
+        "description": "{core-tokens.base-1.dark-5} -> {core-tokens.base-1.default} "
+      },
+      "preview-area": {
+        "icon": {
+          "value": "{core-tokens.links.link-2}",
+          "type": "color",
+          "description": "{core-tokens.base-1.light-8} -> {core-tokens.links.link-2} "
+        },
+        "label": {
+          "value": "{core-tokens.links.link-2}",
+          "type": "color",
+          "description": "{core-tokens.base-1.light-8} -> {core-tokens.links.link-2} "
+        }
+      },
+      "icons": {
+        "light": {
+          "value": "{core-tokens.links.link-2}",
+          "type": "color",
+          "description": "{core-tokens.base-2.light-10} -> {core-tokens.links.link-2} "
+        },
+        "dark": {
+          "value": "{core-tokens.links.link-2}",
+          "type": "color",
+          "description": "{core-tokens.base-1.dark-3} -> {core-tokens.links.link-2} "
+        }
+      }
+    },
+    "headers": {
+      "label": {
+        "value": "{core-tokens.neutral.neutral-1}",
+        "type": "color"
+      },
+      "label-2": {
+        "value": "{core-tokens.neutral.neutral-1}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{core-tokens.links.link-1}",
+        "type": "color"
+      },
+      "icon": {
+        "value": "{core-tokens.links.link-1}",
+        "type": "color"
+      }
+    },
+    "new-breadcrumb-v27-2-and-above": {
+      "icons-meta-tags": {
+        "value": "{core-tokens.neutral.neutral-2}",
+        "type": "color"
+      },
+      "dropdown-icon": {
+        "value": "{core-tokens.neutral.neutral-1}",
+        "type": "color"
+      },
+      "background": {
+        "value": "{core-tokens.neutral.neutral-5}",
+        "type": "color"
+      },
+      "label": {
+        "default-and-back-arrow": {
+          "value": "{core-tokens.neutral.neutral-3}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{core-tokens.neutral.neutral-1}",
+          "type": "color"
+        }
+      }
+    },
+    "sports-markets-live-headers": {
+      "background": {
+        "value": "{core-tokens.base-1.default}",
+        "type": "color",
+        "description": "{core-tokens.base-1.dark-3} -> {core-tokens.base-1.default} "
+      },
+      "divider": {
+        "value": "{core-tokens.neutral.neutral-2}",
+        "type": "color",
+        "description": "{core-tokens.base-1.dark-5} -> {core-tokens.neutral.neutral-2} "
+      },
+      "labels-and-icons": {
+        "sport-icon": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.base-2.light-10} -> {core-tokens.neutral.neutral-5} "
+        },
+        "label-colour": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.base-2.light-10} -> {core-tokens.neutral.neutral-5} "
+        },
+        "collapse-icon": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.base-2.light-10} -> {core-tokens.neutral.neutral-5}"
+        },
+        "racing-label-colour": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        }
+      }
+    },
+    "dropdowns": {
+      "background": {
+        "value": "{core-tokens.neutral.neutral-5}",
+        "type": "color"
+      },
+      "divider": {
+        "value": "{core-tokens.neutral.neutral-6}",
+        "type": "color"
+      },
+      "label": {
+        "value": "{core-tokens.neutral.neutral-1}",
+        "type": "color"
+      },
+      "selected-label": {
+        "value": "{core-tokens.links.link-1}",
+        "type": "color"
+      },
+      "selected-left-border": {
+        "value": "{core-tokens.accent.highlight-1}",
+        "type": "color"
+      },
+      "label-hover": {
+        "value": "{core-tokens.neutral.neutral-3}",
+        "type": "color"
+      },
+      "dropdown-label": {
+        "value": "{core-tokens.links.link-1}",
+        "type": "color"
+      }
+    },
+    "bldr-divider": {
+      "value": "{core-tokens.neutral.neutral-4}",
+      "type": "color"
+    },
+    "competition-header": {
+      "background": {
+        "value": "{core-tokens.base-1.light-8}",
+        "type": "color",
+        "description": "{core-tokens.neutral.neutral-6} -> {core-tokens.base-1.light-8} "
+      },
+      "divider": {
+        "value": "{core-tokens.neutral.neutral-3-5}",
+        "type": "color",
+        "description": "{core-tokens.neutral.neutral-4} -> {core-tokens.neutral.neutral-3-5} "
+      },
+      "label": {
+        "value": "{core-tokens.links.link-1}",
+        "type": "color"
+      },
+      "collapsed-icon": {
+        "value": "{core-tokens.neutral.neutral-2}",
+        "type": "color"
+      }
+    },
+    "event-card": {
+      "background": {
+        "value": "{core-tokens.neutral.neutral-5}",
+        "type": "color"
+      },
+      "label": {
+        "value": "{core-tokens.neutral.neutral-1}",
+        "type": "color"
+      },
+      "icons": {
+        "value": "{core-tokens.neutral.neutral-2}",
+        "type": "color"
+      },
+      "secondary-link": {
+        "value": "{core-tokens.neutral.neutral-3}",
+        "type": "color"
+      },
+      "divider": {
+        "value": "{core-tokens.neutral.neutral-6}",
+        "type": "color"
+      }
+    },
+    "banners": {
+      "clock-tag": {
+        "value": "{core-tokens.neutral.neutral-5}",
+        "type": "color"
+      },
+      "dynamic": {
+        "primary-label-colour": {
+          "value": "{core-tokens.accent.accent-info-1}",
+          "type": "color"
+        },
+        "secondary-label-colour": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        }
+      },
+      "static": {
+        "primary-label-colour": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "secondary-label-colour": {
+          "value": "{core-tokens.neutral.neutral-6}",
+          "type": "color"
+        }
+      }
+    },
+    "scoreboards": {
+      "icon-colour": {
+        "value": "{core-tokens.accent.accent-info-1}",
+        "type": "color"
+      },
+      "flag-icon-colour": {
+        "value": "{core-tokens.neutral.neutral-4}",
+        "type": "color"
+      },
+      "labels": {
+        "secondary": {
+          "value": "{core-tokens.base-1.light-8}",
+          "type": "color"
+        },
+        "primary": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "score-label-colour": {
+          "value": "{core-tokens.accent.accent-info-1}",
+          "type": "color"
+        },
+        "score-label-colour-light": {
+          "value": "{core-tokens.base-2.light-10}",
+          "type": "color"
+        }
+      }
+    },
+    "notifications": {
+      "global": {
+        "background": {
+          "info": {
+            "value": "{core-tokens.alerts-and-notifications.info-light}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{core-tokens.alerts-and-notifications.warning-light}",
+            "type": "color"
+          },
+          "alert": {
+            "value": "{core-tokens.alerts-and-notifications.alert-2}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{core-tokens.alerts-and-notifications.success-2}",
+            "type": "color"
+          }
+        },
+        "info": {
+          "text": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "text": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          }
+        },
+        "alert": {
+          "text": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "text": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          }
+        }
+      },
+      "inline": {
+        "background-fill": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "background-border": {
+          "value": "{core-tokens.neutral.neutral-4}",
+          "type": "color"
+        },
+        "info": {
+          "text": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core-tokens.alerts-and-notifications.info}",
+            "type": "color"
+          }
+        },
+        "warning": {
+          "text": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core-tokens.alerts-and-notifications.warning}",
+            "type": "color"
+          }
+        },
+        "alert": {
+          "text": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core-tokens.alerts-and-notifications.alert-1}",
+            "type": "color"
+          }
+        },
+        "success": {
+          "text": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{core-tokens.alerts-and-notifications.success-1}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "betslip": {
+      "tabs": {
+        "background": {
+          "default": {
+            "value": "{core-tokens.base-1.default}",
+            "type": "color",
+            "description": "{core-tokens.base-1.dark-5} -> {core-tokens.base-1.default} "
+          },
+          "active": {
+            "value": "{core-tokens.links.link-2}",
+            "type": "color",
+            "description": "{core-tokens.base-2.default} -> {core-tokens.links.link-2} "
+          }
+        },
+        "label": {
+          "active": {
+            "value": "{core-tokens.links.link-1}",
+            "type": "color",
+            "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.links.link-1} "
+          },
+          "default": {
+            "value": "{core-tokens.neutral.neutral-5}",
+            "type": "color",
+            "description": "{core-tokens.base-2.light-7} -> {core-tokens.neutral.neutral-5} "
+          }
+        },
+        "icon": {
+          "active": {
+            "value": "{core-tokens.links.link-1}",
+            "type": "color",
+            "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.links.link-1} "
+          },
+          "default": {
+            "value": "{core-tokens.neutral.neutral-5}",
+            "type": "color",
+            "description": "{core-tokens.base-2.light-7} -> {core-tokens.neutral.neutral-5} "
+          }
+        },
+        "counter": {
+          "primary": {
+            "value": "{core-tokens.accent.bubble-1}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{core-tokens.accent.bubble-2}",
+            "type": "color"
+          }
+        }
+      },
+      "fab": {
+        "selections-number": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-1} -> {core-tokens.neutral.neutral-5}"
+        },
+        "fab-odds": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-1} -> {core-tokens.neutral.neutral-5}"
+        }
+      },
+      "counter": {
+        "active": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-1} -> {core-tokens.neutral.neutral-5}"
+        },
+        "default": {
+          "value": "{core-tokens.links.link-1}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-1} -> {core-tokens.links.link-1} "
+        }
+      },
+      "footer": {
+        "background": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.base-1.dark-5} -> {core-tokens.neutral.neutral-5} "
+        },
+        "labels": {
+          "value": "{core-tokens.neutral.neutral-1}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.neutral.neutral-1} "
+        },
+        "barcode-icon": {
+          "value": "{core-tokens.neutral.neutral-1}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.neutral.neutral-1} "
+        }
+      },
+      "stake-input": {
+        "label": {
+          "default": {
+            "value": "{core-tokens.neutral.neutral-1}",
+            "type": "color"
+          },
+          "placeholder": {
+            "value": "{core-tokens.neutral.neutral-4}",
+            "type": "color"
+          }
+        }
+      },
+      "quickbets": {
+        "background": {
+          "value": "{core-tokens.base-1.dark-5}",
+          "type": "color"
+        },
+        "label-and-icon": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "links": {
+          "value": "{core-tokens.links.link-2}",
+          "type": "color"
+        }
+      },
+      "divider": {
+        "default": {
+          "value": "{core-tokens.neutral.neutral-6}",
+          "type": "color"
+        }
+      }
+    },
+    "header": {
+      "selected-state": {
+        "value": "{core-tokens.base-1.default}",
+        "type": "color"
+      },
+      "selected-label-and-icon": {
+        "value": "{core-tokens.neutral.neutral-5}",
+        "type": "color"
+      }
+    },
+    "footer": {
+      "background": {
+        "value": "{core-tokens.neutral.neutral-1}",
+        "type": "color"
+      },
+      "label": {
+        "value": "{core-tokens.neutral.neutral-5}",
+        "type": "color"
+      },
+      "divider": {
+        "value": "{core-tokens.neutral.neutral-4}",
+        "type": "color"
+      }
+    },
+    "stepper": {
+      "current-background": {
+        "value": "{core-tokens.base-1.dark-3}",
+        "type": "color"
+      },
+      "progress": {
+        "value": "{core-tokens.accent.highlight-1}",
+        "type": "color"
+      },
+      "current-text": {
+        "value": "{core-tokens.neutral.neutral-5}",
+        "type": "color"
+      },
+      "default-background": {
+        "value": "{core-tokens.neutral.neutral-5-5}",
+        "type": "color"
+      },
+      "default-text": {
+        "value": "{core-tokens.base-1.dark-3}",
+        "type": "color"
+      },
+      "previous-text": {
+        "value": "{core-tokens.base-1.dark-3}",
+        "type": "color"
+      }
+    },
+    "cards": {
+      "bonus": {
+        "value": "{core-tokens.neutral.neutral-5}",
+        "type": "color"
+      },
+      "tags-background": {
+        "value": "{core-tokens.neutral.neutral-6}",
+        "type": "color"
+      },
+      "tags-text": {
+        "value": "{core-tokens.neutral.neutral-2}",
+        "type": "color"
+      },
+      "cashier": {
+        "background": {
+          "value": "{core-tokens.neutral.neutral-5-5}",
+          "type": "color"
+        },
+        "cards": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        }
+      },
+      "rg": {
+        "background": {
+          "value": "{core-tokens.neutral.neutral-5-5}",
+          "type": "color"
+        },
+        "active-cards": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "pending-card": {
+          "value": "{core-tokens.neutral.neutral-6}",
+          "type": "color"
+        }
+      }
+    },
+    "racing": {
+      "nexttogo-background": {
+        "value": "{core-tokens.base-2.light-10}",
+        "type": "color"
+      },
+      "nexttogo-cards": {
+        "value": "{core-tokens.neutral.neutral-5}",
+        "type": "color"
+      },
+      "nexttogo-divider": {
+        "value": "{core-tokens.neutral.neutral-6}",
+        "type": "color"
+      },
+      "finder": {
+        "active-buttons": {
+          "value": "{core-tokens.base-2.light-10}",
+          "type": "color"
+        },
+        "disabled-buttons": {
+          "value": "{core-tokens.neutral.neutral-6}",
+          "type": "color"
+        },
+        "background": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "divider": {
+          "value": "{core-tokens.neutral.neutral-6}",
+          "type": "color"
+        }
+      }
+    },
+    "mobile": {
+      "breadcrumb": {
+        "background": {
+          "value": "{core-tokens.base-1.dark-5}",
+          "type": "color"
+        },
+        "labels-and-icon": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "back-icon": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "subheading": {
+          "value": "{core-tokens.base-1.light-8}",
+          "type": "color"
+        }
+      },
+      "contextual-nav": {
+        "background": {
+          "value": "{core-tokens.base-1.default}",
+          "type": "color",
+          "description": "{core-tokens.base-1.dark-5} -> {core-tokens.base-1.default} "
+        },
+        "expanded": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "divider": {
+          "value": "{core-tokens.base-1.dark-3}",
+          "type": "color",
+          "description": "{core-tokens.base-1.default} -> {core-tokens.base-1.dark-3}"
+        },
+        "title-divider": {
+          "value": "{core-tokens.base-1.dark-3}",
+          "type": "color",
+          "description": "{core-tokens.base-1.default} -> {core-tokens.base-1.dark-3} "
+        },
+        "label": {
+          "selected": {
+            "value": "{core-tokens.neutral.neutral-5}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{core-tokens.neutral.neutral-6}",
+            "type": "color",
+            "description": "{core-tokens.base-1.light-8} -> {core-tokens.neutral.neutral-6} "
+          }
+        }
+      },
+      "bottom-bar": {
+        "background": {
+          "dark": {
+            "value": "{core-tokens.buttons.primary}",
+            "type": "color",
+            "description": "{core-tokens.base-1.dark-5} -> {core-tokens.buttons.primary} "
+          }
+        },
+        "label": {
+          "active": {
+            "value": "{core-tokens.links.link-1}",
+            "type": "color",
+            "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.links.link-1} "
+          },
+          "default": {
+            "value": "{core-tokens.links.link-1}",
+            "type": "color",
+            "description": "{core-tokens.base-2.light-7} -> {core-tokens.links.link-1} \n"
+          }
+        },
+        "icon": {
+          "active": {
+            "value": "{core-tokens.links.link-1}",
+            "type": "color",
+            "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.links.link-1}"
+          },
+          "default": {
+            "value": "{core-tokens.links.link-1}",
+            "type": "color",
+            "description": "{core-tokens.base-2.light-7} -> {core-tokens.links.link-1}"
+          }
+        }
+      }
+    },
+    "icon-nav-selected-bg": {
+      "background": {
+        "default": {
+          "value": "{core-tokens.base-1.default}",
+          "type": "color",
+          "description": "{core-tokens.base-1.dark-3} -> {core-tokens.base-1.default} "
+        },
+        "selected": {
+          "value": "{core-tokens.base-1.default}",
+          "type": "color"
+        }
+      },
+      "label-and-icon": {
+        "default": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color",
+          "description": "{core-tokens.base-1.light-8} -> {core-tokens.neutral.neutral-5} "
+        },
+        "selected": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        }
+      },
+      "dividers": {
+        "value": "{core-tokens.base-1.default}",
+        "type": "color",
+        "description": "{core-tokens.base-1.dark-5} -> {core-tokens.base-1.default} "
+      }
+    },
+    "icon-nav-with-underline": {
+      "background": {
+        "value": "{core-tokens.base-1.default}",
+        "type": "color",
+        "description": "{core-tokens.base-1.dark-3} -> {core-tokens.base-1.default} "
+      },
+      "label-and-icon": {
+        "value": "{core-tokens.links.link-2}",
+        "type": "color",
+        "description": "{core-tokens.base-2.light-10} -> {core-tokens.links.link-2} "
+      },
+      "underline": {
+        "value": "{core-tokens.links.link-2}",
+        "type": "color",
+        "description": "{core-tokens.accent.highlight-1} -> {core-tokens.links.link-2} "
+      },
+      "divider": {
+        "value": "{core-tokens.base-1.default}",
+        "type": "color",
+        "description": "{core-tokens.base-1.dark-5} -> {core-tokens.base-1.default} "
+      }
+    },
+    "calendar": {
+      "disabled-dates-text": {
+        "value": "{core-tokens.neutral.neutral-2}",
+        "type": "color"
+      },
+      "current-date-background": {
+        "value": "{core-tokens.base-2.light-9}",
+        "type": "color"
+      },
+      "month-and-week": {
+        "background": {
+          "value": "{core-tokens.base-1.default}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        }
+      },
+      "dates": {
+        "background": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "text": {
+          "value": "{core-tokens.links.link-1}",
+          "type": "color"
+        }
+      },
+      "selected-date": {
+        "text": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "background": {
+          "value": "{core-tokens.links.link-1}",
+          "type": "color"
+        }
+      }
+    },
+    "new-quick-bet-and-bldr-header": {
+      "quick-bet-header": {
+        "background": {
+          "value": "{core-tokens.links.link-2}",
+          "type": "color",
+          "description": "{core-tokens.base-2.default} -> {core-tokens.links.link-2} "
+        },
+        "label": {
+          "value": "{core-tokens.links.link-1}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.links.link-1} "
+        },
+        "icon-collapse-expand": {
+          "value": "{core-tokens.links.link-1}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.links.link-1} "
+        },
+        "links": {
+          "value": "{core-tokens.links.link-2}",
+          "type": "color"
+        }
+      }
+    },
+    "input-fields": {
+      "stake-1-outline": {
+        "value": "{core-tokens.base-1.default}",
+        "type": "color"
+      },
+      "stake-2-outline": {
+        "value": "{core-tokens.base-1.light-5}",
+        "type": "color"
+      },
+      "stake-disabled-outline": {
+        "value": "{core-tokens.neutral.neutral-4}",
+        "type": "color"
+      },
+      "stake-error-outline": {
+        "value": "{core-tokens.alerts-and-notifications.alert-1}",
+        "type": "color"
+      },
+      "stake-success-outline": {
+        "value": "{core-tokens.alerts-and-notifications.success-1}",
+        "type": "color"
+      }
+    }
+  },
+  "border-radius": {
+    "default": {
+      "layer-override": {
+        "value": "5",
+        "type": "borderRadius"
+      }
+    },
+    "filter": {
+      "chips": {
+        "border": {
+          "value": "8",
+          "type": "borderRadius",
+          "description": "remmaped from 12px to 8px"
+        }
+      }
+    },
+    "notifications": {
+      "inline": {
+        "background": {
+          "value": "4",
+          "type": "borderRadius"
+        }
+      }
+    },
+    "buttons": {
+      "default-cta": {
+        "value": "8",
+        "type": "borderRadius",
+        "description": "remmaped from 4px to 8px"
+      },
+      "modals-and-drawers": {
+        "value": "12",
+        "type": "borderRadius",
+        "description": "remmaped from 8px to 12px"
+      },
+      "odds": {
+        "value": "8",
+        "type": "borderRadius",
+        "description": "remmaped from 4px to 8px"
+      }
+    },
+    "chips": {
+      "value": "8",
+      "type": "borderRadius",
+      "description": "remmaped from 12px to 8px"
+    },
+    "input-fields": {
+      "value": "8",
+      "type": "borderRadius",
+      "description": "remmaped from 4px to 8px"
+    },
+    "stake-input-fields": {
+      "value": "8",
+      "type": "borderRadius",
+      "description": "remmaped from 4px to 8px"
+    },
+    "widgets": {
+      "value": "12",
+      "type": "borderRadius",
+      "description": "remmaped from 4px to 12px"
+    },
+    "tags": {
+      "value": "4",
+      "type": "borderRadius",
+      "description": "remmaped from 2px to 4px"
+    }
+  },
+  "border": {
+    "filters": {
+      "chips-1-border-default": {
+        "value": {
+          "color": "{core-tokens.base-1.light-8}",
+          "width": "1",
+          "style": "solid"
+        },
+        "type": "border",
+        "description": "{core-tokens.base-2.light-3} -> {core-tokens.base-1.light-8}"
+      }
+    },
+    "betslip": {
+      "dividers": {
+        "value": "{border.divider.divider-8}",
+        "type": "border"
+      }
+    }
+  }
+}
