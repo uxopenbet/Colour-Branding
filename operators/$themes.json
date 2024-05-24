@@ -572,10 +572,14 @@
     "id": "e87a1aefbcbcb7da4b1ece07889737834c3a065d",
     "name": "OpenBet_Dark",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
-    "group": "Operators Test",
+    "selectedTokenSets": {
+      "Dark/Core palette": "enabled",
+      "Dark/Native iOS - Android": "enabled",
+      "Dark/Remappings": "enabled"
+    },
     "$figmaCollectionId": "VariableCollectionId:5208:26855",
     "$figmaModeId": "5208:2",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "Operators Test"
   }
 ]
