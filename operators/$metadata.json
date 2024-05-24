@@ -1,0 +1,11 @@
+{
+  "tokenSetOrder": [
+    "Core/Core palette",
+    "Core/Native iOS - Android",
+    "Core/Remappings",
+    "Dark/Core palette",
+    "Dark/Native iOS - Android",
+    "Dark/Remappings",
+    "Sportsbook Local (Don't change)"
+  ]
+}

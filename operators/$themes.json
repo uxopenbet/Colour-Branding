@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ba59648786eb48869b8f9de76e46885a31b252c3",
+    "name": "OpenBet_Default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "Core/Core palette": "enabled",
+      "Core/Native iOS - Android": "enabled",
+      "Core/Remappings": "enabled"
+    },
+    "group": "Operators Test"
+  },
+  {
+    "id": "e87a1aefbcbcb7da4b1ece07889737834c3a065d",
+    "name": "OpenBet_Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {},
+    "group": "Operators Test"
+  }
+]
