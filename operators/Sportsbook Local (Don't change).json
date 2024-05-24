@@ -1,0 +1,56 @@
+{
+  "soccer-cards": {
+    "yellow-card": {
+      "value": "#FFFF00",
+      "type": "color"
+    },
+    "red-card": {
+      "value": "#FF0000",
+      "type": "color"
+    },
+    "card-text-light": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "card-text-dark": {
+      "value": "#000",
+      "type": "color"
+    }
+  },
+  "scoreboard": {
+    "draw": {
+      "value": "#F5A134",
+      "type": "color"
+    },
+    "won": {
+      "value": "#28A428",
+      "type": "color"
+    },
+    "lost": {
+      "value": "#FF0000",
+      "type": "color"
+    },
+    "overlay-layer1": {
+      "value": "rgba(0,0,0,0.5)",
+      "type": "color"
+    },
+    "overlay-layer2": {
+      "value": "rgba(0,0,0,0.5)",
+      "type": "color"
+    }
+  },
+  "match-hq": {
+    "home": {
+      "value": "#AC2121",
+      "type": "color"
+    },
+    "away": {
+      "value": "#315996",
+      "type": "color"
+    },
+    "info": {
+      "value": "#67D0EF",
+      "type": "color"
+    }
+  }
+}
