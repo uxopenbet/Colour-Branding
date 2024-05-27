@@ -338,6 +338,24 @@
         "value": "rgba(255,255,255,0)",
         "type": "color"
       }
+    },
+    "gradients": {
+      "g1": {
+        "value": "#000000",
+        "type": "color"
+      },
+      "g2": {
+        "value": "#35c222",
+        "type": "color"
+      },
+      "g3": {
+        "value": "#ffd91a",
+        "type": "color"
+      },
+      "g4": {
+        "value": "#123456",
+        "type": "color"
+      }
     }
   },
   "shadow": {

@@ -1717,6 +1717,12 @@
           "value": "{core-tokens.base-2.light-9}",
           "type": "color"
         }
+      },
+      "gradients": {
+        "g1": {
+          "value": "linear-gradient(90deg, {core-tokens.gradients.g1} 0%, {core-tokens.gradients.g2} 100%)",
+          "type": "color"
+        }
       }
     }
   },

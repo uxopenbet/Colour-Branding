@@ -1684,6 +1684,12 @@
           "type": "color",
           "description": "{core-tokens.base-2.light-9} -> {core-tokens.base-2.default}"
         }
+      },
+      "gradients": {
+        "g1": {
+          "value": "{color.account.balance-background}",
+          "type": "color"
+        }
       }
     },
     "pam": {

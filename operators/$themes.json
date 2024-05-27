@@ -565,7 +565,11 @@
       "dropdown.gap-icon-to-text": "c3206016294e61bcf54a661c9ee769cfc7a895e8",
       "dropdown.large": "35735cdbf6aacc78c05c5f6ebccd68e88bfdd09e",
       "dropdown.medium": "a2a57f5fa0090ab8f31fe32b7e761c123183ef2b",
-      "dropdown.small": "aa8aeb1354d3915ae2a844d167bf4101d69ff7d4"
+      "dropdown.small": "aa8aeb1354d3915ae2a844d167bf4101d69ff7d4",
+      "core-tokens.gradients.g1": "fda5e9688108ace08f42bac8a5d0c873b4f50e83",
+      "core-tokens.gradients.g2": "475696da477138c1f4c1d9d488b315b1ba597d09",
+      "core-tokens.gradients.g3": "c895728c5fc759d113c74c5b2b1f87cf2407b70d",
+      "core-tokens.gradients.g4": "da427880f5fcfc418a4bedac3f00a27a796b69d3"
     }
   },
   {
@@ -970,6 +974,7 @@
       "border-radius.stake-input-fields": "1cf595cc34215691811a7eca63eaab4584114804",
       "border-radius.widgets": "55dfc008f88104cd66f9879f2a52a683b5183ceb",
       "border-radius.tags": "4c991775cfe485faabadad5a75f5bd000737ef05",
+      "rt.global.gradients.g1": "0432aa5359817c3a7433b86a71a5e4879449f063",
       "color.sports.background": "1e4d2b61f93cd01f62fb99ec014be337ea25ee30",
       "color.sports.empty-primary": "71a0e38f0efd04cc238ba34b4c7e99c0218e69de",
       "color.sports.empty-secondary": "4ec6cfad3988d917714f4ff954613350f7daa774",
@@ -1115,6 +1120,10 @@
       "core-tokens.slider.slider-1": "f7505df830b5b31537007ba48ea95f3dbb456efd",
       "core-tokens.tickbox.tickbox-1": "e4664a297f301489035843b00683c9ba23cc30de",
       "core-tokens.transparent.0": "5cde456f48275eb6aacce118e784f53eaa4392cb",
+      "core-tokens.gradients.g1": "fda5e9688108ace08f42bac8a5d0c873b4f50e83",
+      "core-tokens.gradients.g2": "475696da477138c1f4c1d9d488b315b1ba597d09",
+      "core-tokens.gradients.g3": "c895728c5fc759d113c74c5b2b1f87cf2407b70d",
+      "core-tokens.gradients.g4": "da427880f5fcfc418a4bedac3f00a27a796b69d3",
       "button.medium": "63b4934f0a0abdc82139eb1950a056abcca2eadb",
       "button.small": "1a6f9f046802798c0329a68fd4b88718adaed4f0",
       "button.xsmall": "993731fa973e017ab0cde5bb402d6913baac5cc8",
