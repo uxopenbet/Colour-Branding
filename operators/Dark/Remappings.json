@@ -461,16 +461,14 @@
           "type": "color",
           "description": "{core-tokens.base-1.light-8} -> {core-tokens.neutral.neutral-3}"
         },
-        "label": {
-          "primary": {
-            "value": "{core-tokens.neutral.neutral-7}",
-            "type": "color",
-            "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.neutral.neutral-7}"
-          },
-          "score-label": {
-            "value": "{core-tokens.accent.accent-info-1}",
-            "type": "color"
-          }
+        "label-primary": {
+          "value": "{core-tokens.neutral.neutral-7}",
+          "type": "color",
+          "description": "{core-tokens.neutral.neutral-5} -> {core-tokens.neutral.neutral-7}"
+        },
+        "label-score-label": {
+          "value": "{core-tokens.accent.accent-info-1}",
+          "type": "color"
         }
       },
       "breadcrumb": {

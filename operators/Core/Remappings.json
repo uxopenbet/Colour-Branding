@@ -432,15 +432,13 @@
           "value": "{core-tokens.base-1.light-8}",
           "type": "color"
         },
-        "label": {
-          "primary": {
-            "value": "{core-tokens.neutral.neutral-5}",
-            "type": "color"
-          },
-          "score-label": {
-            "value": "{core-tokens.accent.accent-info-1}",
-            "type": "color"
-          }
+        "label-primary": {
+          "value": "{core-tokens.neutral.neutral-5}",
+          "type": "color"
+        },
+        "label-score-label": {
+          "value": "{core-tokens.accent.accent-info-1}",
+          "type": "color"
         }
       },
       "breadcrumb": {
