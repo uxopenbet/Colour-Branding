@@ -428,11 +428,11 @@
           "value": "{core-tokens.neutral.neutral-4}",
           "type": "color"
         },
+        "label-secondary": {
+          "value": "{core-tokens.base-1.light-8}",
+          "type": "color"
+        },
         "label": {
-          "secondary": {
-            "value": "{core-tokens.base-1.light-8}",
-            "type": "color"
-          },
           "primary": {
             "value": "{core-tokens.neutral.neutral-5}",
             "type": "color"

@@ -456,12 +456,12 @@
           "type": "color",
           "description": "{core-tokens.neutral.neutral-4} -> {core-tokens.neutral.neutral-3}"
         },
+        "label-secondary": {
+          "value": "{core-tokens.neutral.neutral-3}",
+          "type": "color",
+          "description": "{core-tokens.base-1.light-8} -> {core-tokens.neutral.neutral-3}"
+        },
         "label": {
-          "secondary": {
-            "value": "{core-tokens.neutral.neutral-3}",
-            "type": "color",
-            "description": "{core-tokens.base-1.light-8} -> {core-tokens.neutral.neutral-3}"
-          },
           "primary": {
             "value": "{core-tokens.neutral.neutral-7}",
             "type": "color",

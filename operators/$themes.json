@@ -105,7 +105,6 @@
       "rt.sports.counters.live-background-selected": "cf95fc8f93be86612a9c46d49b5b704d43c6fa5a",
       "rt.sports.scoreboards.icon": "2d6603a07e7970192ece7e629a8808e502794259",
       "rt.sports.scoreboards.flag-icon": "34bc134c4ed59045b2a339b0509c8837694fdd95",
-      "rt.sports.scoreboards.label.secondary": "4302a1e4ef7a0983ce457f2229a466feb9f86e20",
       "rt.sports.scoreboards.label.primary": "bc38c504eb3db623d4b81e07ffeb8eb5893305a1",
       "rt.sports.scoreboards.label.score-label": "2157b18637e13cb9c1ad8e6c501e8d131848cad3",
       "rt.sports.breadcrumb.label-and-dropdown-icon-active": "1f9784f6a10a0373b962be8a9f2bbdb6251aa444",
@@ -569,7 +568,8 @@
       "core-tokens.gradients.g1": "fda5e9688108ace08f42bac8a5d0c873b4f50e83",
       "core-tokens.gradients.g2": "475696da477138c1f4c1d9d488b315b1ba597d09",
       "core-tokens.gradients.g3": "c895728c5fc759d113c74c5b2b1f87cf2407b70d",
-      "core-tokens.gradients.g4": "da427880f5fcfc418a4bedac3f00a27a796b69d3"
+      "core-tokens.gradients.g4": "da427880f5fcfc418a4bedac3f00a27a796b69d3",
+      "rt.sports.scoreboards.label-secondary": "4302a1e4ef7a0983ce457f2229a466feb9f86e20"
     }
   },
   {
@@ -677,7 +677,6 @@
       "rt.sports.counters.live-background-selected": "cf95fc8f93be86612a9c46d49b5b704d43c6fa5a",
       "rt.sports.scoreboards.icon": "2d6603a07e7970192ece7e629a8808e502794259",
       "rt.sports.scoreboards.flag-icon": "34bc134c4ed59045b2a339b0509c8837694fdd95",
-      "rt.sports.scoreboards.label.secondary": "4302a1e4ef7a0983ce457f2229a466feb9f86e20",
       "rt.sports.scoreboards.label.primary": "bc38c504eb3db623d4b81e07ffeb8eb5893305a1",
       "rt.sports.scoreboards.label.score-label": "2157b18637e13cb9c1ad8e6c501e8d131848cad3",
       "rt.sports.breadcrumb.label-and-dropdown-icon-active": "1f9784f6a10a0373b962be8a9f2bbdb6251aa444",
@@ -1142,7 +1141,8 @@
       "dropdown.gap-icon-to-text": "c3206016294e61bcf54a661c9ee769cfc7a895e8",
       "dropdown.large": "35735cdbf6aacc78c05c5f6ebccd68e88bfdd09e",
       "dropdown.medium": "a2a57f5fa0090ab8f31fe32b7e761c123183ef2b",
-      "dropdown.small": "aa8aeb1354d3915ae2a844d167bf4101d69ff7d4"
+      "dropdown.small": "aa8aeb1354d3915ae2a844d167bf4101d69ff7d4",
+      "rt.sports.scoreboards.label-secondary": "4302a1e4ef7a0983ce457f2229a466feb9f86e20"
     },
     "group": "Operators Test"
   }
